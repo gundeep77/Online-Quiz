@@ -6,3 +6,6 @@ local_settings.py
 venv/
 epicQuiz_venv/
 credentials.py
+epicQuiz/.DS_Store
+online_quiz/.DS_Store
+.DS_Store
